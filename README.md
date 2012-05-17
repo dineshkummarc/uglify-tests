@@ -6,7 +6,8 @@ Existing directory of 18 javascript files took 7 seconds to uglify = boo.
 
 ## Sample output
 
-`Building file string
+```
+Building file string
 
 Files are: 
 
@@ -16,7 +17,8 @@ Running command
 
 Finished command
 
-Command took 7.153137922287 seconds.`
+Command took 7.153137922287 seconds.
+```
 
 ## Todo
 
